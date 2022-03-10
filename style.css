@@ -163,6 +163,7 @@ ul{
     width: 100%;
     background: url('https://i.ibb.co/72cgtsz/carbon.jpg')no-repeat
     center center/cover;
+    padding: 50px;
 }
 
 .carbon .content{
